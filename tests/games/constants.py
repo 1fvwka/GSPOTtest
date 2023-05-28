@@ -1,0 +1,1 @@
+BASE_URL = "https://games.alpha.g-spot.website/"
